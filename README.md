@@ -1,10 +1,10 @@
-# Eloquent JavaScript
+<h1>Eloquent JavaScript</h1>
 
 Welcome to reading Eloquent JavaScript. The book is available online for free: https://eloquentjavascript.net/
 
 For this book we will be splitting it up by 1 chapter per week, since several chapters have exercises. To participate, read along and fork this repo for the exercises and review questions. There's no right or wrong answers, nor do we grade. Feel free to use the content you learn as a jumping off point to generate discussion with peers at https://www.linkedin.com/groups/14000642/ or request someone in the club to review your code. 
 
-<h5>Schedule</h5>
+<h3>Schedule</h3>
 <h6>Week 1</h6>
 0. Introduction 
 <br><b>(Part 1: Language)</b><br>
@@ -42,3 +42,11 @@ For this book we will be splitting it up by 1 chapter per week, since several ch
 <h6>Week 12</h6>
 20. Node.js<br>
 21. Project: Skill-Sharing Website<br>
+
+<h3>Coding Exercises</h3>
+I recommend simply using the Coding SandBox provided by the author: https://eloquentjavascript.net/code/ <br>
+[optional] If you like tracking your work on Github, feel free to fork this repo and put your thoughts/code in your own files
+
+<h3>Participants</h3>
+Name - Link to Forked Repo [TODO: Add your name and repo :)]
+

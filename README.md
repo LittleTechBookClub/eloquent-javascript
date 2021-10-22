@@ -2,7 +2,7 @@
 
 Welcome to reading Eloquent JavaScript. The book is available online for free: https://eloquentjavascript.net/
 
-For this book we will be splitting it up by 1 chapter per week, since several chapters have exercises. To participate, read along and fork this repo for the exercises and review questions. There's no right or wrong answers, nor do we grade. Feel free to use the content you learn as a jumping off point to generate discussion with peers at https://www.linkedin.com/groups/14000642/ or request someone in the club to review your code. 
+For this book we will be splitting it up by a few chapters per week or 1 if it's a major project. To participate, read along and fork this repo for the exercises and review questions. There's no right or wrong answers, nor do we grade. Feel free to use the content you learn as a jumping off point to generate discussion with peers at https://www.linkedin.com/groups/14000642/ or request someone in the club to review your code. 
 
 <h3>Schedule</h3>
 <h6>Week 1</h6>
